@@ -1,5 +1,5 @@
-function hobbies (hobbyOne, hobbyTwo, hobbyThree) {
+function hobbiesList (hobbyOne, hobbyTwo, hobbyThree) {
     return [hobbyOne, hobbyTwo, hobbyThree];
 };
 
-module.exports = hobbies;
+module.exports = hobbiesList;

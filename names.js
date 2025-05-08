@@ -1,8 +1,8 @@
-function createName (firstName, lastName) {
+function name (firstName, lastName) {
     return {
         firstName,
         lastName
     };
 };
 
-module.exports = createName;
+module.exports = name;
